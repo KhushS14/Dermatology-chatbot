@@ -2,7 +2,7 @@ import gradio as gr
 import requests
 import random
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama3-8b-8192"
 
